@@ -41,4 +41,5 @@
   img {
     margin: 1rem;
     width: 150px;
+    max-width: 80%;
   }
