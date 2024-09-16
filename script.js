@@ -7,7 +7,7 @@
 function setCountdown() {
 
     // Set countdown date
-    let countdownDate = new Date(Date.UTC(2024, 09, 16, 14, 0, 0)).getTime();
+    let countdownDate = new Date(Date.UTC(2024, 16, 09, 14, 0, 0)).getTime();
 
     // Update countdown every second
     let updateCount = setInterval(function(){
